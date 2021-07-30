@@ -12,6 +12,12 @@ Offensive language detection and other classification tasks often rely on large 
 | [`EDA.ipynb`](https://github.com/jcweaver/w266-project/blob/main/EDA.ipynb) | A notebook used to read in Amharic & OLID datasets and do some initial EDA. |
 | [`Error-Analysis.ipynb`](https://github.com/jcweaver/w266-project/blob/main/Error-Analysis.ipynb) | Analysis notebook used to explore the unique tokens detected in [`Amharic-Analysis.ipynb`](https://github.com/jcweaver/w266-project/blob/main/Amharic-Analysis.ipynb) and explore incorrect predicted comments. |
 | [`lstm_baseline.ipynb`](https://github.com/jcweaver/w266-project/blob/main/lstm_baseline.ipynb) | LSTM Baseline Model |
-| [`mBERT_pytorch.ipynb`](https://github.com/jcweaver/w266-project/blob/main/mBERT_pytorch.ipynb) | mBERT Model |
+| [`mBERT_pytorch.ipynb`](https://github.com/jcweaver/w266-project/blob/main/mBERT_pytorch.ipynb) | mBERT Model used on different sets of data. See comments. |
 | [`data/`](https://github.com/jcweaver/w266-project/tree/main/data) | Data input and prediction files used in the models and analysis notebooks |
-| [``]() | |
+| [`XLMR-Amharic-Mono-Reserved.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic-Mono-Reserved.ipynb) | |
+| [`XLMR-Amharic-Mono.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic-Mono.ipynb) | |
+| [`XLMR-Amharic-Plus.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic-Plus.ipynb) | XLMR run on Amharic + OLID data |
+| [`XLMR-Amharic-Test-Reserved.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic-Test-Reserved.ipynb) | |
+| [`XLMR-Amharic.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic.ipynb) | XLMR run on just Amharic |
+| [`LMR_Fine_Tune_With_Articles.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR_Fine_Tune_With_Articles.ipynb) | XLMR finetuned on Amharic news |
+
