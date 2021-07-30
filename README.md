@@ -8,3 +8,10 @@ Offensive language detection and other classification tasks often rely on large 
 
 |File | Description |
 |:----|:------------|
+| [`Amharic-Analysis.ipynb`](https://github.com/jcweaver/w266-project/blob/main/Amharic-Analysis.ipynb) | Analysis notebook used to identify the most common words in correctly & incorrectly identified comments. |
+| [`EDA.ipynb`](https://github.com/jcweaver/w266-project/blob/main/EDA.ipynb) | A notebook used to read in Amharic & OLID datasets and do some initial EDA. |
+| [`Error-Analysis.ipynb`](https://github.com/jcweaver/w266-project/blob/main/Error-Analysis.ipynb) | Analysis notebook used to explore the unique tokens detected in [`Amharic-Analysis.ipynb`](https://github.com/jcweaver/w266-project/blob/main/Amharic-Analysis.ipynb) and explore incorrect predicted comments. |
+| [`lstm_baseline.ipynb`](https://github.com/jcweaver/w266-project/blob/main/lstm_baseline.ipynb) | LSTM Baseline Model |
+| [`mBERT_pytorch.ipynb`](https://github.com/jcweaver/w266-project/blob/main/mBERT_pytorch.ipynb) | mBERT Model |
+| [`data/`](https://github.com/jcweaver/w266-project/tree/main/data) | Data input and prediction files used in the models and analysis notebooks |
+| [``]() | |
