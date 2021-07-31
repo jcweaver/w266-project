@@ -20,4 +20,4 @@ Offensive language detection and other classification tasks often rely on large 
 | [`XLMR-Amharic-Test-Reserved.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic-Test-Reserved.ipynb) | |
 | [`XLMR-Amharic.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR-Amharic.ipynb) | XLMR run on just Amharic |
 | [`LMR_Fine_Tune_With_Articles.ipynb`](https://github.com/jcweaver/w266-project/blob/main/XLMR_Fine_Tune_With_Articles.ipynb) | XLMR finetuned on Amharic news |
-
+| [`Offensive_Language_Detection.pdf`](https://github.com/jcweaver/w266-project/blob/main/Offensive_Language_Detection.pdf) | Our paper discussing these models, analysis, and results |
